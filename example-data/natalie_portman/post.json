@@ -1,0 +1,55 @@
+[
+	{
+		"type": "photo"
+		"time": "2014-08-12 12:12", // bisa 2014-08-12 23:00 atau hanya 23:00 (today)
+		"description": "fashion show",
+		"filename": "post_033_natalie_portman",
+		"comments": [
+			{
+				"from": "kstewart", // mengacu pada contact.json field id
+				"time": "2014-08-12 12:15", // bisa 2014-08-12 23:00 atau hanya 23:00 (today)
+				"message": "u are my idol"
+			},
+			{
+				"from": "leodicap",
+				"time": "2014-08-12 12:18", // bisa 2014-08-12 23:00 atau hanya 23:00 (today)
+				"message": "Natalie..you r so cool!!!!"
+			}
+		] 
+	},
+	{
+		"type": "status"
+		"time": "2014-08-12 13:12", // bisa 2014-08-13 13:12 atau hanya 13:12 (today)
+		"message": "Twitter still doesn't reply me so please send them e-mails if you know how it works. I miss you ",
+		"comments": [
+			{
+				"from": "leodicap",
+				"time": "2014-08-12 13:18", // bisa 2014-08-12 13:18 atau hanya 13:18 (today)
+				"message": "it could be because ur account has been hacked and there investigating it"
+			},
+			{
+				"from": "dcraig",
+				"time": "2014-08-12 13:22", // bisa 2014-08-12 13:22 atau hanya 13:22 (today)
+				"message": "Did they offer a reason why they took these actions?"
+			}
+		] 
+	},
+	{
+		"type": "video"
+		"time": "2014-08-13 13:12", // bisa 2014-08-13 13:12 atau hanya 13:12 (today)
+		"description": "Miss Dior Cherie perfume Clip",
+		"filename": "post_002_natalie_portman",
+		"comments": [
+			{
+				"from": "dcraig",
+				"time": "2014-08-13 12:18", // bisa 2014-08-13 13:18 atau hanya 13:18 (today)
+				"message": "truly Amazing! this is such a beautiful ad.﻿"
+			},
+			{
+				"from": "ewatson",
+				"time": "2014-08-13 12:22", // bisa 2014-08-13 13:22 atau hanya 13:22 (today)
+				"message": "heavenly godess﻿"
+			}
+		] 
+	}
+]

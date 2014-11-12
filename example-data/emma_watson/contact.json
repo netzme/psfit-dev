@@ -1,0 +1,12 @@
+{
+	"id": "ewatson",
+	"name": "Emma Watson",
+	"dp_filename": "dp_emma_watson_circle",
+	"status": "Love the Shadow",
+	"innerCircle": false,
+	"cover_filename": "cover_emma_watson",
+	"lastChatStatus": "sent", // sent | delivered | read | retracted | scheduled | seen | unseen
+	"lastChatTime": "2014-08-12 23:00", // bisa 2014-08-12 23:00 atau hanya 23:00 (today)
+	"isLastMessageUnread": false,
+	"isNear": false
+}
