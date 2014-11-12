@@ -3,7 +3,7 @@
 		"type": "photo"
 		"time": "2014-08-12 12:12", // bisa 2014-08-12 23:00 atau hanya 23:00 (today)
 		"description": "fashion show",
-		"filename": "post_033_natalie_portman",
+		"filename": "post_035_ewatson",
 		"comments": [
 			{
 				"from": "kstewart", // mengacu pada contact.json field id
@@ -38,7 +38,7 @@
 		"type": "video"
 		"time": "2014-08-13 13:12", // bisa 2014-08-13 13:12 atau hanya 13:12 (today)
 		"description": "Miss Dior Cherie perfume Clip",
-		"filename": "post_002_natalie_portman",
+		"filename": "post_002_nportman",
 		"comments": [
 			{
 				"from": "dcraig",

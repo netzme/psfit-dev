@@ -1,10 +1,10 @@
 {
 	"id": "dcraig",
 	"name": "Daniel Craig",
-	"dp_filename": "dp_daniel_craig_circle",
+	"dp_filename": "dp_dcraig",
 	"status": "Love the Shadow",
 	"innerCircle": false,
-	"cover_filename": "cover_daniel_craig",
+	"cover_filename": "cover_dcraig",
 	"lastChatStatus": "sent", // sent | delivered | read | retracted | scheduled | seen | unseen
 	"lastChatTime": "2014-08-12 23:00", // bisa 2014-08-12 23:00 atau hanya 23:00 (today)
 	"isLastMessageUnread": false,
