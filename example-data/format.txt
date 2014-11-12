@@ -1,0 +1,38 @@
+## Menentukan Account Owner ##
+- Aplikasi membaca suatu file tertentu yang disimpan pada folder asset yang berisi contact_id dari account owner
+- Saat ini file yang dibaca adalah file sort.json
+
+## Format file ##
+- Penamaan file :
+  - lowercase
+- Lokasi penyimpanan 
+  - Folder res/drawable-xxhdpi pada android project
+
+### Display Picture ###
+- Type 
+  - PNG
+- Format  
+  - dp_< contact_id >.png
+- Dimensi 
+  - Width  : 160 pixel pada XXHDPI
+  - Height : 160 pixel pada XXHDPI
+- Display
+  - Circle
+
+### Cover Photo ###
+- Type
+  - PNG
+- Format
+  - cover_< contact_id >.png
+- Dimensi
+  - Width  : 1080 pixel pada XXHDPI
+  - Height : bebas
+
+### Posting Photo ###
+- Type
+  - PNG
+- Format
+  - post_< post_number >_< contact_id >.png
+- Dimensi
+  - Width  : 1060 pixel pada XXHDPI
+  - Height : bebas
