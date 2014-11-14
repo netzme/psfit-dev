@@ -1,6 +1,7 @@
 /**
 Note :
 - id pertama menjadi account owner
-
 */
-["nportman", "ewatson", "dcraig"]
+{
+	"contactlist" : ["nportman", "ewatson", "dcraig"]
+}
